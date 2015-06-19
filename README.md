@@ -1,4 +1,4 @@
-# Getting_And_Cleaning_Data_Course_Project
+# Getting And Cleaning Data Course Project
 Contains files for the Course Project for Getting And Cleaning Data course on Coursera
 
 ##To ASSIST THE GRADER: I have added comments starting with "QUESTION" and a number (1-5) 
